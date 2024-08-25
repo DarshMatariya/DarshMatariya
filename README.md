@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarshMatariya
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning computer engineering and android developement.
+- 👀 I’m interested in learning new things..
+- 🌱 I’m a student of pre-final year of computer engineering.
 
 <!---
 DarshMatariya/DarshMatariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
