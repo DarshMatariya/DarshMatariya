@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/DarshMatariya" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=600&lines=Hey!+I'm+Darsh+Matariya;Exploring+Artificial+Intelligence,+Machine+Learning,+Deep+Learning,+NLP,+GenAI+%26+Large+Language+Models+to+build+intelligent+systems" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey!+I'm+Darsh+Matariya;ML+%7C+DL+%7C+NLP+%7C+GenAI+%7C+LLMs" />
   </a>
 </p>
+
 
 ---
 
