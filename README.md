@@ -39,12 +39,21 @@
 
 ### 🔗 Connect with Me
 
+<!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/darsh-matariya-587696294/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:darshmatariya@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  &#8287;&#8287;&#8287;
+  <a href="mailto:darshmatariya@gmail.com" target="_blank">
+    <img width="32px" alt="Gmail" title="Gmail" src="https://cdn.simpleicons.org/gmail/EA4335"/>
+  </a>
+  &#8287;&#8287;&#8287;
+  <a href="https://x.com/DarshMatariya" target="_blank">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://cdn.simpleicons.org/x/000000"/>
+  </a>
+  &#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/darsh_matariya/" target="_blank">
+    <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F"/>
   </a>
 </p>
