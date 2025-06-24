@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Myself
 
 - 🎓 Final Year Computer Engineering Student at Sarvajanik University  
 - 🚀 Passionate about solving real-world problems using ML & Deep Learning  
