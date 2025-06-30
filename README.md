@@ -10,7 +10,7 @@
 ### 👨‍💻 About Myself
 
 - 🎓 Final Year Computer Engineering Student at Sarvajanik University  
-- 🚀 Passionate about solving real-world problems using ML & Deep Learning  
+- 🚀 Passionate about solving real-world problems using different domains of AI  
 - 📫 Reach me at: **darshmatariya@gmail.com**
 
 ---
